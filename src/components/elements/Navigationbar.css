@@ -1,0 +1,7 @@
+nav{
+    background-color: #D29495;
+    color: aliceblue;
+}
+.active .icon{
+  color: black;
+}
